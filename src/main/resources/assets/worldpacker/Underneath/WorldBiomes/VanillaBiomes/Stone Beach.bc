@@ -195,13 +195,13 @@ RiverCustomHeightControl: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0,
 #######################################################################
 
 # Change this to generate something else than stone in the biome.
-StoneBlock: CONTENTTWEAKER:DEEPSLATE:0
+StoneBlock: eaglemixins:DEEPSLATE:0
 
 # Surface block, usually GRASS.
-SurfaceBlock: CONTENTTWEAKER:DEEPSLATE:0
+SurfaceBlock: eaglemixins:DEEPSLATE:0
 
 # Block from stone to surface, like dirt in most biomes.
-GroundBlock: CONTENTTWEAKER:DEEPSLATE:0
+GroundBlock: eaglemixins:DEEPSLATE:0
 
 # Setting for biomes with more complex surface and ground blocks.
 # Each column in the world has a noise value from what appears to be -7 to 7.

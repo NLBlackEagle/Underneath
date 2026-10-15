@@ -197,16 +197,16 @@ Plant(defiledlands:scuronotte,10,100.0,0,128,DEFILEDLANDS:DIRT_DEFILED,DEFILEDLA
 #######################################################################
 
 ## Lead Ore
-Ore(contenttweaker:deepslate_lead_ore,6,10,100.0,0,20,eaglemixins:deepslate,SRPARASITES:INFESTEDRUBBLE)
+Ore(eaglemixins:deepslate_lead_ore,6,10,100.0,0,20,eaglemixins:deepslate,SRPARASITES:INFESTEDRUBBLE)
 
 ## Thorium Ore
-Ore(contenttweaker:deepslate_thorium_ore,4,10,100.0,0,24,eaglemixins:deepslate,SRPARASITES:INFESTEDRUBBLE)
+Ore(eaglemixins:deepslate_thorium_ore,4,10,100.0,0,24,eaglemixins:deepslate,SRPARASITES:INFESTEDRUBBLE)
 
 ## Boron Ore
-Ore(contenttweaker:deepslate_boron_ore,5,5,100.0,0,75,eaglemixins:deepslate,SRPARASITES:INFESTEDRUBBLE)
+Ore(eaglemixins:deepslate_boron_ore,5,5,100.0,0,75,eaglemixins:deepslate,SRPARASITES:INFESTEDRUBBLE)
 
 ## Lithium Ore
-Ore(contenttweaker:deepslate_lithium_ore,5,5,50.0,0,75,eaglemixins:deepslate,SRPARASITES:INFESTEDRUBBLE)
+Ore(eaglemixins:deepslate_lithium_ore,5,5,50.0,0,75,eaglemixins:deepslate,SRPARASITES:INFESTEDRUBBLE)
 
 
 #######################################################################

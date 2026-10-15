@@ -195,7 +195,7 @@ RiverCustomHeightControl: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0,
 #######################################################################
 
 # Change this to generate something else than stone in the biome.
-StoneBlock: CONTENTTWEAKER:DEEPSLATE:0
+StoneBlock: eaglemixins:DEEPSLATE:0
 
 # Surface block, usually GRASS.
 SurfaceBlock: SNOW_BLOCK:0

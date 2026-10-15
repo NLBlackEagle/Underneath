@@ -185,16 +185,16 @@ FogThunderWeight: 0.5
 #######################################################################
 
 ## Lead Ore
-Ore(contenttweaker:deepslate_lead_ore,6,10,100.0,0,20,eaglemixins:deepslate,SRPARASITES:INFESTEDRUBBLE)
+Ore(eaglemixins:deepslate_lead_ore,6,10,100.0,0,20,eaglemixins:deepslate,SRPARASITES:INFESTEDRUBBLE)
 
 ## Thorium Ore
-Ore(contenttweaker:deepslate_thorium_ore,4,10,100.0,0,24,eaglemixins:deepslate,SRPARASITES:INFESTEDRUBBLE)
+Ore(eaglemixins:deepslate_thorium_ore,4,10,100.0,0,24,eaglemixins:deepslate,SRPARASITES:INFESTEDRUBBLE)
 
 ## Boron Ore
-Ore(contenttweaker:deepslate_boron_ore,5,5,100.0,0,75,eaglemixins:deepslate,SRPARASITES:INFESTEDRUBBLE)
+Ore(eaglemixins:deepslate_boron_ore,5,5,100.0,0,75,eaglemixins:deepslate,SRPARASITES:INFESTEDRUBBLE)
 
 ## Lithium Ore
-Ore(contenttweaker:deepslate_lithium_ore,5,5,50.0,0,75,eaglemixins:deepslate,SRPARASITES:INFESTEDRUBBLE)
+Ore(eaglemixins:deepslate_lithium_ore,5,5,50.0,0,75,eaglemixins:deepslate,SRPARASITES:INFESTEDRUBBLE)
 
 
 #######################################################################
@@ -220,13 +220,13 @@ Tree(25,CityChestFiller_lower,40)
 
 
 Ore(quark:crystal:1,9,20,100.0,0,255,quark:basalt)
-Ore(contenttweaker:deepslate_crystal_ore,8,1,75.0,0,20,quark:basalt)
-Ore(contenttweaker:deepslate_coal_ore,17,20,75.0,0,127,eaglemixins:deepslate)
-Ore(contenttweaker:deepslate_iron_ore,9,20,75.0,0,255,eaglemixins:deepslate)
-Ore(contenttweaker:deepslate_gold_ore,9,2,75.0,0,255,eaglemixins:deepslate)
-Ore(contenttweaker:deepslate_redstone_ore,8,8,75.0,0,255,eaglemixins:deepslate)
-Ore(contenttweaker:deepslate_diamond_ore,8,1,75.0,0,255,eaglemixins:deepslate)
-Ore(contenttweaker:deepslate_lapis_ore,7,1,75.0,0,255,eaglemixins:deepslate)
+Ore(eaglemixins:deepslate_crystal_ore,8,1,75.0,0,20,quark:basalt)
+Ore(eaglemixins:deepslate_coal_ore,17,20,75.0,0,127,eaglemixins:deepslate)
+Ore(eaglemixins:deepslate_iron_ore,9,20,75.0,0,255,eaglemixins:deepslate)
+Ore(eaglemixins:deepslate_gold_ore,9,2,75.0,0,255,eaglemixins:deepslate)
+Ore(eaglemixins:deepslate_redstone_ore,8,8,75.0,0,255,eaglemixins:deepslate)
+Ore(eaglemixins:deepslate_diamond_ore,8,1,75.0,0,255,eaglemixins:deepslate)
+Ore(eaglemixins:deepslate_lapis_ore,7,1,75.0,0,255,eaglemixins:deepslate)
 Liquid(BIOMESOPLENTY:blood,20,100.0,8,60,eaglemixins:deepslate,quark:basalt)
 Liquid(BIOMESOPLENTY:blood,20,100.0,140,255,eaglemixins:deepslate,quark:basalt)
 
