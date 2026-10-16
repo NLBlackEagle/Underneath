@@ -5049,10 +5049,10 @@ Block(7,18,3,AIR:0)
 Block(7,18,4,AIR:0)
 Block(7,18,5,AIR:0)
 
-RandomBlock(6,18,-2,AIR,95,WALL_BANNER:4,skyscraper_3x3_05/583-bannerC0R32.nbt,100)
-RandomBlock(6,18,-1,AIR,95,WALL_BANNER:4,skyscraper_3x3_05/584-bannerC0R32.nbt,100)
-RandomBlock(6,20,-2,AIR,95,WALL_BANNER:4,skyscraper_3x3_05/585-bannerC0R32.nbt,100)
-RandomBlock(7,18,0,AIR,95,WALL_BANNER:3,skyscraper_3x3_05/622-bannerC0R32.nbt,100)
+RandomBlock(6,18,-2,AIR,95,WALL_BANNER:4,../AllScraperData/skyscraper_3x3_05/583-bannerC0R32.nbt,100)
+RandomBlock(6,18,-1,AIR,95,WALL_BANNER:4,../AllScraperData/skyscraper_3x3_05/584-bannerC0R32.nbt,100)
+RandomBlock(6,20,-2,AIR,95,WALL_BANNER:4,../AllScraperData/skyscraper_3x3_05/585-bannerC0R32.nbt,100)
+RandomBlock(7,18,0,AIR,95,WALL_BANNER:3,../AllScraperData/skyscraper_3x3_05/622-bannerC0R32.nbt,100)
 #######################################################################
 # +-----------------------------------------------------------------+ #
 # |                             Branches                            | #
