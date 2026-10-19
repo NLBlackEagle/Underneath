@@ -180,16 +180,6 @@
         },
         {
           "type": "item",
-          "name": "wardlights:dispatcher_crown",
-          "weight": 60
-        },
-        {
-          "type": "item",
-          "name": "wardlights:viral_ring",
-          "weight": 70
-        },
-        {
-          "type": "item",
           "name": "mod_lavacow:moltenpan",
           "weight": 70
         },
