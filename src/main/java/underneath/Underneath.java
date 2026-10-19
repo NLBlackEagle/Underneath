@@ -17,7 +17,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 
-@Mod(modid = Underneath.MODID, acceptableRemoteVersions = "*", dependencies = "required-after:openterraingenerator;required-after:dregorarl")
+@Mod(modid = Underneath.MODID, acceptableRemoteVersions = "*", dependencies = "required-after:openterraingenerator")
 public class Underneath {
 
 	public static final String MODID = "underneath";
